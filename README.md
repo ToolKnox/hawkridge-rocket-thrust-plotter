@@ -6,7 +6,7 @@ Status: draft / review package. Not published for release.
 
 ## Links
 
-- Printables draft: pending
+- Printables draft: https://www.printables.com/model/1776632-rocket-thrust-plotter
 - Original source/remix parent: https://github.com/bpcda/Rocket-Thrust-Plotter
 - Maker Portal slug: `rocket-thrust-plotter`
 
