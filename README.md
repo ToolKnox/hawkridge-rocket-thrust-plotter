@@ -7,7 +7,7 @@ This repository holds the Hawkridge documentation and source-asset notes for the
 ## Where to find things
 
 - Printables model and printable files: https://www.printables.com/model/1776632-rocket-thrust-plotter
-- Bill of Material: `Rocket Thrust Plotter Draft Bill of Material.pdf` in the Printables Documentation section
+- Bill of Material: `Rocket Thrust Plotter Bill of Material.pdf` in the Printables Documentation section
 - Parts list summary: `docs/BILL-OF-MATERIAL.md`
 - Source-code, firmware, PCB, and design-asset notes: `docs/source-assets.md`
 - Assembly or install notes, when available: files under `docs/`
