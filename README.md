@@ -1,33 +1,19 @@
 # Rocket Thrust Plotter
 
-Hawkridge refurbished draft documentation package.
+CC-BY-4.0 Arduino sensor rig with 3D printed rocket holder/base and real-time thrust plotting; needs English guide and safety review.
 
-Status: draft / review package. Not published for release.
+This repository holds the Hawkridge documentation and source-asset notes for the matching Printables model.
 
-## Links
+## Where to find things
 
-- Printables draft: https://www.printables.com/model/1776632-rocket-thrust-plotter
-- Original source/remix parent: https://github.com/bpcda/Rocket-Thrust-Plotter
-- Maker Portal slug: `rocket-thrust-plotter`
+- Printables model and printable files: https://www.printables.com/model/1776632-rocket-thrust-plotter
+- Bill of Material: `Rocket Thrust Plotter Draft Bill of Material.pdf` in the Printables Documentation section
+- Parts list summary: `docs/BILL-OF-MATERIAL.md`
+- Source-code, firmware, PCB, and design-asset notes: `docs/source-assets.md`
+- Assembly or install notes, when available: files under `docs/`
 
-## What is here
+## Build path
 
-- Draft source review and upload manifest.
-- Draft/refurbishment checklist.
-- Seed Bill of Material for review.
-- Code/PCB source asset inventory where applicable.
-
-## Current release blockers
-
-- final Hawkridge documentation rewrite
-- supplier/SKU verification
-- affiliate link wrapping
-- visible marketplace BOM PDF with working links
-- Printables draft final browser review
-- Tom approval before publishing
-
-## Source/license note
-
-Original source and license are tracked for attribution and remix metadata. This repository is the Hawkridge documentation/refurbishment layer, not a claim of original authorship.
-
-Detected upstream license: CC-BY-4.0
+1. Download the printable files from Printables.
+2. Read the relevant docs in this repository for assembly, installation, firmware/software, and PCB/source notes.
+3. Use the Bill of Material PDF on Printables for parts planning.
