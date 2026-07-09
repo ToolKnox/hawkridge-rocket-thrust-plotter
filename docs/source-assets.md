@@ -2,12 +2,20 @@
 
 Original source/remix parent: https://github.com/bpcda/Rocket-Thrust-Plotter
 
-This page lists source-code, firmware, configuration, PCB, and electronics-design assets relevant to the Hawkridge refurbishment package.
+Mirrored source snapshot: `5` files, 1.41 MiB, under `source/upstream/`.
 
-## Code, firmware, and configuration
+## Download
 
-- `main.ino`
+Use GitHub's **Code → Download ZIP** button, or clone the repository. The mirrored software/PCB/source files are included under `source/upstream/`.
 
-## PCB and electronics manufacturing assets
+## Software / firmware / config files
 
-- None listed for this package.
+- `source/upstream/main.ino`
+
+## PCB / electronics manufacturing files
+
+- None detected.
+
+## Upstream docs
+
+- `source/upstream/README.md`

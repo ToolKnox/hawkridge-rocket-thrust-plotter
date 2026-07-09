@@ -8,4 +8,4 @@ Printables page: https://www.printables.com/model/1776632-rocket-thrust-plotter
 
 - **Files** — printable STL/CAD files for the build.
 - **Documentation** — `Rocket Thrust Plotter Bill of Material.pdf` with the parts list.
-- **Description** — short project overview and links back to these docs.
+- **Description** — short project overview and links back to this repo.
