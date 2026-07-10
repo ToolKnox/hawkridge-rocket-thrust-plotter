@@ -1,6 +1,14 @@
 # Rocket Thrust Plotter
 
 CC-BY-4.0 Arduino sensor rig with 3D printed rocket holder/base and real-time thrust plotting; needs English guide and safety review.
+## Documentation download
+
+Download the complete build documentation/source package from this GitHub repository:
+
+- **Download ZIP:** use GitHub's **Code → Download ZIP** button.
+- **Start here:** `README.md` for the build/install guide.
+- **Documentation pointer:** `download-documentation/README.md`.
+- **Mirrored upstream source/assets:** `source/upstream/`.
 
 ## Installation / quick start
 
@@ -51,4 +59,3 @@ https://github.com/bpcda/Rocket-Thrust-Plotter
 - Full mirrored upstream source/software/PCB files: `source/upstream/`
 - Source asset index: `docs/source-assets.md`
 - Standalone install/build guide: `docs/INSTALLATION.md`
-
